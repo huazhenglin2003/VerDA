@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+# Local datasets, model checkpoints, and generated evaluation artifacts.
+data/
+models/
+outputs/
+test/
